@@ -5,6 +5,7 @@ My accepted leetcode solutions
 |ID|Title|Runtime|Memory|Timestamp|Solution|
 |---|-----|--------|-------|-------------|--------|
 |1|[Two Sum](https://leetcode.com/problems/two-sum)|44 ms|14.5 MB|17-04-2021|[python3](code/1.two-sum.py)|
+|2|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers)|2 ms|39 MB|25-05-2021|[java](code/2.add-two-numbers.java)|
 |3|[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters)|44 ms|14.5 MB|17-04-2021|[python3](code/3.longest-substring-without-repeating-characters.py)|
 |4|[Median Of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays)|28 ms|89.7 MB|25-04-2021|[cpp](code/4.median-of-two-sorted-arrays.cpp)|
 |5|[Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring)|64 ms|231.4 MB|19-05-2021|[cpp](code/5.longest-palindromic-substring.cpp)|
